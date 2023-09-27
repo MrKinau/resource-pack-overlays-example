@@ -1,0 +1,21 @@
+{
+    "pack": {
+        "pack_format": 13,
+        "supported_formats": {
+            "min_inclusive": 13,
+            "max_inclusive": 18
+        },
+        "description": "§7Author §f» §6MrKinau\n§7Version §f» §7Overlays Example"
+    },
+    "overlays": {
+        "entries": [
+            {
+                "directory": "overlay_1_20_2",
+                "formats": {
+                    "min_inclusive": 18,
+                    "max_inclusive": 18
+                }
+            }
+        ]
+    }
+}
